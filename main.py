@@ -65,7 +65,6 @@ if trend_type.title() == 'Polynomial':
         temp = str(difference).split(' ')
 
         count += int(temp[0])
-        print(temp[0])
         other_x = np.array(count)
 
         other_y = f(other_x)
