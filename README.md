@@ -1,5 +1,7 @@
 # Stocks4U
 A quick and easy way to access the stock market, and learn what investments to make
+
+Created by Sharat Krishnan, Aditya Kumar, Jay Patel
 ___________________________________________________________________________________________
 ## Inspiration
 As we come out of the coronavirus pandemic and our lives begin to return to normal, the economy is going to be bouncing back. We wanted to help small businesses and people take advantage of the rebounding economy and grow their stock portfolio. Many small businesses are not even on the stock market and they might want to go public during this time to raise their capital. We wanted to not only take advantage of the restoring economy but also help people and small businesses restore their financial wellbeing and make smart investments.
